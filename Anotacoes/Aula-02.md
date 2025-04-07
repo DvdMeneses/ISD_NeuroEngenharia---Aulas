@@ -63,7 +63,7 @@ A parte superior do encéfalo, próxima à ponta da cabeça, denominamos **dorsa
 <details>
   <summary><strong>Resumo visual</strong></summary>
 
-  ![alt text](image.png)
+  ![alt text](images/image.png)
 
 </details>
 
@@ -113,9 +113,9 @@ Quando fazemos cortes no encéfalo para visualizar regiões, dependendo do plano
 - **Perde** o eixo **ântero-posterior** (rostro-caudal)
 
 <details>
-  <summary><strong>Visualizar imagem — Corte Coronal</strong></summary>
+  <summary><strong>Visualizar images/imagem — Corte Coronal</strong></summary>
 
-  ![alt text](image-1.png)
+  ![alt text](images/image-1.png)
 
 </details>
 
@@ -131,9 +131,9 @@ Também perdemos o plano que está sendo cortado, ou seja, **perdemos a percepç
 - **Perde** o eixo **longitudinal** (dorso-ventral)
 
 <details>
-  <summary><strong>Visualizar imagem — Corte Horizontal</strong></summary>
+  <summary><strong>Visualizar images/imagem — Corte Horizontal</strong></summary>
 
-  ![alt text](image-2.png)
+  ![alt text](images/image-2.png)
 
 </details>
 
@@ -148,9 +148,9 @@ Quando fazemos o corte no plano sagital, perdemos a percepção do eixo látero-
 - **Perde** o eixo **látero-lateral**
 
 <details>
-  <summary><strong>Visualizar imagem — Corte Sagital</strong></summary>
+  <summary><strong>Visualizar images/imagem — Corte Sagital</strong></summary>
 
-  ![alt text](image-3.png)
+  ![alt text](images/image-3.png)
 
 </details>
 
@@ -437,7 +437,7 @@ O tecido do Sistema Nervoso Central (SNC) se divide em **substância cinzenta** 
 - 🧠 Presente no **córtex cerebral** (camada externa do cérebro) e em **núcleos profundos**
 - 🌀 Na medula espinhal, forma o clássico formato de **"H" central**
 
-![alt text](image-4.png)
+![alt text](images/image-4.png)
 
 ---
 
@@ -451,7 +451,7 @@ O tecido do Sistema Nervoso Central (SNC) se divide em **substância cinzenta** 
 - 🧠 No cérebro: está **mais internamente**
 - 💥 Na medula espinhal: está **mais externamente**, envolvendo a cinzenta
 
-![alt text](image-5.png)
+![alt text](images/image-5.png)
 ---
 
 ## 📊 Comparativo
@@ -513,7 +513,7 @@ Esse sistema tem um papel fundamental na **proteção, nutrição e homeostase**
 
 ---
 
-![Sistema Ventricular](image-7.png)
+![Sistema Ventricular](images/image-7.png)
 
 
 ## ⚠️ Hidrocefalia
@@ -576,7 +576,7 @@ O **córtex cerebral** é a camada mais externa do cérebro, responsável por fu
   Localização: Posterior ao sulco parieto-occipital
 
 ## Vista Lateral
-![alt text](image-8.png)
+![alt text](images/image-8.png)
 
 ### 🔸 Vista Medial
 - **Frontal**: (mesmas funções da vista lateral)  
@@ -594,7 +594,7 @@ O **córtex cerebral** é a camada mais externa do cérebro, responsável por fu
 
 
 ## Vista Medial 
-![alt text](image-9.png)
+![alt text](images/image-9.png)
 
 
 ## 🧩 A Ínsula (ou Lobo da Ínsula)
@@ -607,6 +607,6 @@ O **córtex cerebral** é a camada mais externa do cérebro, responsável por fu
   - Envolvimento com o gosto e percepção da dor
 
 ---
-![alt text](image-10.png)
+![alt text](images/image.png)
 
 
